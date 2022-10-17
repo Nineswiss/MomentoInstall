@@ -19,14 +19,16 @@ rules=4eb57e8f-bbd2-4fc8-bd80-b1932415c269,f85fe56b-e224-47e0-8626-6a40d0d93988
 
 [f85fe56b-e224-47e0-8626-6a40d0d93988]
 Description=Desktop
+below=true
+belowrule=2
+fullscreen=true
+fullscreenrule=2
 skippager=true
 skippagerrule=2
 skipswitcher=true
 skipswitcherrule=2
 skiptaskbar=true
 skiptaskbarrule=2
-type=2
-typerule=2
 wmclass=desktop desktop
 wmclasscomplete=true
 wmclassmatch=1
