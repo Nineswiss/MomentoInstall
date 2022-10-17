@@ -1,0 +1,5 @@
+[Desktop Entry]
+Name=Momento
+Comment=Momento Desktop Environment
+Exec=/bin/momento_de.sh
+Type=Application  
